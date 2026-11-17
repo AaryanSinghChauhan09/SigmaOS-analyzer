@@ -3,7 +3,7 @@ name = "SigmaOS-analyzer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "analyzer component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
